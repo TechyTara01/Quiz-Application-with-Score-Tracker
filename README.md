@@ -1,14 +1,12 @@
-# Quiz-Application-with-Score-Tracker
-A web-based quiz application with automated scoring, performance tracking, analytics, difficulty-based scoring, and a leaderboard.
 # Quiz Application with Score Tracker
 
 A web-based quiz application with automated scoring, performance tracking, analytics, difficulty-based scoring, and a leaderboard.
 
 ## About the Project
 
-This project helps students attempt multiple-choice quizzes, receive instant scores, and monitor their academic performance over time.
+This project aims to help students attempt multiple-choice quizzes, receive automated scores, and monitor their academic performance over time.
 
-It includes randomized questions, weighted scoring based on difficulty, score history, domain-wise analytics, secure login, and a leaderboard.
+The planned system will include randomized questions, difficulty-based scoring, score history, domain-wise analytics, secure login, and a leaderboard.
 
 ## Technology Stack
 
