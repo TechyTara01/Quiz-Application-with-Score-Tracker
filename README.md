@@ -1,8 +1,8 @@
-# Quiz App and Score Tracker
+# Quiz App with Score Tracker
 
 ## About the Project
 
-The Quiz App and Score Tracker is a beginner-level Python project designed to provide users with a simple way to attempt multiple-choice questions from different subjects and check their performance.
+The Quiz App with Score Tracker is a beginner-level Python project designed to provide users with a simple way to attempt multiple-choice questions from different subjects and check their performance.
 
 The idea behind this project is to make quiz practice more organised and interactive. Users will be able to select a subject, answer questions with four options, and receive a score based on their answers.
 
